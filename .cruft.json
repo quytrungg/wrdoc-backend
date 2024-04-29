@@ -1,0 +1,17 @@
+{
+  "template": "git@github.com:saritasa-nest/saritasa-python-boilerplate-django.git",
+  "commit": "f581d54a9aca8a42595bff13de7914a968558690",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "wrdoc",
+      "jira_key": "WRDOC",
+      "subdomain": "wrdoc",
+      "repo_name": "wrdoc-backend",
+      "repo_frontend_name": "wrdoc-frontend",
+      "python_version": "3.11",
+      "_template": "git@github.com:saritasa-nest/saritasa-python-boilerplate-django.git"
+    }
+  },
+  "directory": null
+}

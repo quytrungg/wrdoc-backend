@@ -1,0 +1,3 @@
+from .consultation import ConsultationFactory
+from .consultation_attachment import ConsultationAttachmentFactory
+from .consultation_template import ConsultationTemplateFactory

@@ -1,0 +1,3 @@
+from .consultation import ConsultationViewSet, SessionTypeChoiceAPIView
+from .consultation_rate import ConsultationRateAPIView
+from .consultation_template import ConsultationTemplateViewSet

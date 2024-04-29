@@ -1,0 +1,4 @@
+from .consultation import ConsultationAdmin
+from .consultation_attachment import ConsultationAttachmentAdmin
+from .consultation_rate import ConsultationRateAdmin
+from .consultation_template import ConsultationTemplateAdmin
